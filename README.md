@@ -1,3 +1,3 @@
 # mate-do
-It`s my fors step.
+It`s my first step.
 My pleasure
